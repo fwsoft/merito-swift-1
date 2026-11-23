@@ -8,6 +8,8 @@ Course materials. The PDFs are in Polish.
 |---|---|
 | [Lecture 1](wyklady/wyklad1.pdf) | introduction, tooling, variables and data types |
 | [Lecture 2](wyklady/wyklad2.pdf) | conditionals: `if`, `guard`, `switch`, enumerations |
+| [Lecture 3](wyklady/wyklad3.pdf) | `while` and `repeat-while` loops |
+| [Lecture 4](wyklady/wyklad4.pdf) | `for-in` loops and random numbers |
 
 ## Example project
 
